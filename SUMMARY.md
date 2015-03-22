@@ -1,15 +1,20 @@
 # 我的个人学习书
 
 ## [引](./source/begin.md)
+
 ## [起](./source/part1/introduction)
-  ### [MarkDown起步](./source/part1/1.md)
-  ### [GitHub起步](./source/part1/2.md)
-  ### [GitBook起步](./source/part1/3.md)
-  ### [Mailing-list起步](./source/part1/4.md)
+### [MarkDown起步](./source/part1/1.md)
+### [GitHub起步](./source/part1/2.md)
+### [GitBook起步](./source/part1/3.md)
+### [Mailing-list起步](./source/part1/4.md)
+
 ## [承](./source/part2/introduction)
-  ### [part2.1](./source/part2/1.md)
+### [part2.1](./source/part2/1.md)
+
 ## [转](./source/part3/introduction)
-  ### [part3.1](./source/part3/1.md)
+### [part3.1](./source/part3/1.md)
+
 ## [合](./source/part4/introduction)
-  ### [part4.1](./source/part4/1.md)
+### [part4.1](./source/part4/1.md)
+
 ## [结](./source/end.md)
