@@ -4,7 +4,7 @@
 
 ## [2. 起](./source/part1/introduction.md)
 ### [2.1 MarkDown起步](./source/part1/1.md)
-### [2.2 GitHub起步](./source/part1/2.md)
+### [2.2 Git+GitHub起步](./source/part1/2.md)
 ### [2.3 GitBook起步](./source/part1/3.md)
 ### [2.4 Mailing-List起步](./source/part1/4.md)
 
