@@ -8,6 +8,7 @@
   * [Mailing-List起步](./source/part1/4.md)  
 * [承](./source/part2/introduction.md)
   * [Guess the number](./source/part2/1.md)
+  * [彩点画板](./source/part2/2.md)
 * [转](./source/part3/introduction.md)
   * [题目](./source/part3/1.md)
 * [合](./source/part4/introduction.md)
