@@ -10,7 +10,7 @@
 * [承](./source/part2/introduction.md)
   * [Guess the number](./source/part2/1.md)
   * [彩点画板](./source/part2/2.md)
-  * [重要插播：如何在本地模拟运行codeskulptor平台（教程链接）](./source/part2/3.md)  
+  * [有关于本地化环境的插播](./source/part2/3.md)  
   * [智能化Guess the number](./source/part2/4.md)  
   * [可分享的水彩点彩色板](./source/part2/5.md)  
 * [转](./source/part3/introduction.md)
